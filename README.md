@@ -1,2 +1,2 @@
-# Grade-Converter-Mini-Project-C-
+# Grade-Calculator
 Mini Project in C++
